@@ -1,8 +1,7 @@
 name: fake_touch
-description: A new flutter plugin project.
+description: A plugin that can simulate screen clicks for automated testing
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/ventureli/fake_touch
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

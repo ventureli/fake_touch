@@ -1,6 +1,9 @@
 # fake_touch
 
-A new flutter plugin project.
+A plugin that can simulate screen clicks for automated testing.A
+This plugin uses the IOS private API and cannot be uploaded to the app store, but Android can
+
+
 
 ## Getting Started
 
