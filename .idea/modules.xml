@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fake_touch.iml" filepath="$PROJECT_DIR$/fake_touch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/fake_touch_android.iml" filepath="$PROJECT_DIR$/android/fake_touch_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/fake_touch_example_android.iml" filepath="$PROJECT_DIR$/example/android/fake_touch_example_android.iml" />
+    </modules>
+  </component>
+</project>

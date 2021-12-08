@@ -1,0 +1,22 @@
+PODS:
+  - fake_touch (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - fake_touch (from `.symlinks/plugins/fake_touch/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  fake_touch:
+    :path: ".symlinks/plugins/fake_touch/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  fake_touch: 0ba11a550e2e4fac45b80e1240668b95793e3b14
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3
